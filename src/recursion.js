@@ -21,7 +21,6 @@ const nFactorial = (n) => {
 const checkMatchingLeaves = (obj) => {
   // return true if every property on `obj` is the same
   // otherwise return false
-  
 };
 
 /* eslint-enable no-unused-vars */
