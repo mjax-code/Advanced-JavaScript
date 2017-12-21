@@ -28,5 +28,6 @@
   "dependencies": {
     "babel-preset-es2015": "^6.24.0",
     "eslint-config-airbnb": "^14.1.0"
-  }
+  },
+  "test:sis": "jest --json --outputFile=testRun.json"
 }
